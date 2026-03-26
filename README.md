@@ -1,5 +1,3 @@
-# Cortana-x-API
-Cortana
 import express from "express";
 
 const app = express();
